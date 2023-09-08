@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.chat_app-mergeDebugResources-24:/values-night-v8/values-night-v8.xml",
+            "outputFile": "com.example.chat_app-mergeDebugResources-26:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
                     "source": "/home/hivebox-web017-dev-pc/HiteshKhatri/flutter_projects/chat_app/android/app/src/main/res/values-night/styles.xml",
